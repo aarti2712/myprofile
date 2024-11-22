@@ -12,7 +12,7 @@ class _LocationState extends State<Location> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text("Location"),
+        title: Text("Hindi"),
       ),
     );
   }
